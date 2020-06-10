@@ -1,0 +1,19 @@
+{
+  "name": "by_sugar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "complie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "openpgp": "^4.10.4",
+    "socket.io": "^2.3.0",
+    "solc": "^0.6.9",
+    "web3": "^1.2.8"
+  }
+}
